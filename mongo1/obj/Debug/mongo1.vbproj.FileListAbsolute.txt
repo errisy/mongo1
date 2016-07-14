@@ -1,0 +1,10 @@
+c:\users\zhenyu\documents\visual studio 2015\Projects\mongo1\mongo1\bin\Debug\mongo1.exe.config
+C:\Users\Zhenyu\documents\visual studio 2015\Projects\mongo1\mongo1\bin\Debug\mongo1.exe
+C:\Users\Zhenyu\documents\visual studio 2015\Projects\mongo1\mongo1\bin\Debug\mongo1.pdb
+C:\Users\Zhenyu\documents\visual studio 2015\Projects\mongo1\mongo1\bin\Debug\mongo1.xml
+C:\Users\Zhenyu\documents\visual studio 2015\Projects\mongo1\mongo1\obj\Debug\mongo1.vbprojResolveAssemblyReference.cache
+C:\Users\Zhenyu\documents\visual studio 2015\Projects\mongo1\mongo1\obj\Debug\mongo1.Resources.resources
+C:\Users\Zhenyu\documents\visual studio 2015\Projects\mongo1\mongo1\obj\Debug\mongo1.vbproj.GenerateResource.Cache
+C:\Users\Zhenyu\documents\visual studio 2015\Projects\mongo1\mongo1\obj\Debug\mongo1.exe
+C:\Users\Zhenyu\documents\visual studio 2015\Projects\mongo1\mongo1\obj\Debug\mongo1.xml
+C:\Users\Zhenyu\documents\visual studio 2015\Projects\mongo1\mongo1\obj\Debug\mongo1.pdb
